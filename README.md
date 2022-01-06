@@ -17,12 +17,22 @@ git clone https://github.com/vismodo/parkour-game.git
 
 Or, download the `.zip` file [here](https://github.com/vismodo/parkour-game/archive/refs/heads/main.zip)
 
-Running the file
-
+## Usage
+Run this:
 ```
 cd parkour-game
 python main.py
 ```
+
+Controls:
+
+- W - Forward
+- A - Left
+- S - Back
+- D - Right
+- Space Bar - Jump
+
+![Screengrab]()
 
 ## How do I create a custom map/level?
 

@@ -32,7 +32,7 @@ Controls:
 - D - Right
 - Space Bar - Jump
 
-![Screengrab]()
+![Screengrab](https://github.com/vismodo/parkour-game/blob/main/demoscreengrab.png?raw=true)
 
 ## How do I create a custom map/level?
 
